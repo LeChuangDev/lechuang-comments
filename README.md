@@ -23,7 +23,7 @@
 
 ```mermaid
 flowchart LR
-  A[访客打开网页] --> B[giscus client.js]
+  A[https://zhangwenle.com/] --> B[giscus client.js]
   B --> C{按页面映射查找 Discussion}
   C -->|已存在| D[加载已有留言]
   C -->|不存在| E[首次留言时自动创建]
