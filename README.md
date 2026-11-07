@@ -1,5 +1,4 @@
 # lechuang-comments
-# lechuang-comments
 
 [![powered by giscus](https://img.shields.io/badge/powered%20by-giscus-2ea44f?style=flat-square)](https://giscus.app/zh-CN) [![文档语言](https://img.shields.io/badge/docs-简体中文-blue?style=flat-square)](#)
 
